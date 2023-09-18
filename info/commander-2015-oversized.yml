@@ -1,0 +1,18 @@
+---
+object: set
+id: 7198001d-6617-485e-aa5d-41be3a7cd77c
+code: oc15
+name: Commander 2015 Oversized
+uri: https://api.scryfall.com/sets/7198001d-6617-485e-aa5d-41be3a7cd77c
+scryfall_uri: https://scryfall.com/sets/oc15
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aoc15&unique=prints
+released_at: '2015-11-13'
+set_type: memorabilia
+card_count: 5
+parent_set_code: c15
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: cmd
+block: Commander
+icon_svg_uri: https://svgs.scryfall.io/sets/c15.svg?1694404800
